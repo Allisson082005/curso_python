@@ -1,0 +1,7 @@
+# g=float(input("numero"))
+# print(round(g,2))
+producto = input("Introduce el nombre del producto:")
+precio_unitario = float(input("Introduce el precio unitario:"))
+unidades = int(input("Introduce el número de unidades:"))
+total = round(unidades * precio_unitario, 2)
+print(producto + ":", unidades, "unidades x", format(precio_unitario, ".2f"), "=", format(total, ".2f"))

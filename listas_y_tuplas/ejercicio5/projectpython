@@ -1,0 +1,3 @@
+numeros = list(range(1,10))
+numeros_inversos = ', '.join(map(str, reversed(numeros)))
+print(numeros_inversos)
