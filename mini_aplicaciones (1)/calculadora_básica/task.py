@@ -1,20 +1,26 @@
 def suma(a, b):
-# TODO
+    return a + b
 
 def resta(a, b):
-# TODO
+    return a - b
 
 def multiplicacion(a, b):
-# TODO
+    return a * b
 
 def division(a, b):
-# TODO
+    return a / b
 
 def mostrar_menu():
-# TODO
+    print("Menú de opciones:")
+    print("1. Suma"
+2. Resta
+3. Multiplicación
+4. División
+5. Salir)
+def main(menu=None):
+   opcion = input("Seleccione una opción:", mn)
+    while opcion != mn[5]:
 
-def main():
-# TODO
 
 if __name__ == "__main__":
     main()
