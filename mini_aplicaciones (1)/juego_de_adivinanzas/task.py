@@ -2,7 +2,7 @@ import random
 
 
 def generar_numero_aleatorio(minimo, maximo):
-# TODO
+# TODO ayuda 
 
 def mostrar_menu():
 # TODO
