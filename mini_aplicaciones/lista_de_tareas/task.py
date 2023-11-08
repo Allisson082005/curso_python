@@ -4,7 +4,7 @@ def mostrar_menu():
     print("(3) Ver tarea")
     print("(4) Salir")
 
-
+#ayuda
 def agregar_tarea(tareas, tarea):
     tareas.append(tarea)
     print("Tarea agregada: ", tarea)
